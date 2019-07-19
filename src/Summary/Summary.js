@@ -12,8 +12,9 @@ export class Summary extends Component {
             <section className="main__summary">
                 <h3>NEW GREENLEAF 2018</h3>
                 {Object.keys(selected)
-                    .map(item => 
+                    .map((item,index) => 
                     <SummaryItem 
+                        key={index}
                         item={item} 
                         selected={selected} 
                     />)
