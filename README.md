@@ -1,4 +1,5 @@
 # Laptop Customizer
-_Starter project for React course_
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app that shows understanding of React's concept of defaultProps, callback props, and splitting into a react component hierarchy and implement it with state and props.
+
+- [Live Demo](https://wannab3d3v3lop3r.github.io/laptop_customizer/)
